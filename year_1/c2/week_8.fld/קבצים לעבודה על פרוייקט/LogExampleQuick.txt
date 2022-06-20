@@ -1,0 +1,15 @@
+Anti-virus began! Welcome!
+
+Folder to scan: 
+D:\filesToCheck
+Virus signature: 
+D:\KittenVirusSign
+
+Scanning option:
+Quick Scan
+
+Results:
+D:\filesToCheck\file  Infected! (first 20%)
+D:\filesToCheck\myFile  Infected!
+D:\filesToCheck\niceFile  Clean
+D:\filesToCheck\yourFile  Infected! (last 20%)

@@ -1,0 +1,11 @@
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\bin\Debug\net461\Film4Me.exe.config
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\bin\Debug\net461\Film4Me.exe
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\bin\Debug\net461\Film4Me.pdb
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\obj\Debug\net461\Film4Me.csproj.AssemblyReference.cache
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\obj\Debug\net461\Film4Me.frmClient.resources
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\obj\Debug\net461\Film4Me.Properties.Resources.resources
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\obj\Debug\net461\Film4Me.csproj.GenerateResource.cache
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\obj\Debug\net461\Film4Me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\obj\Debug\net461\Film4Me.csproj.CoreCompileInputs.cache
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\obj\Debug\net461\Film4Me.exe
+C:\Users\test0\Dropbox\magshimim\net2\week_3\Film4Me\code\obj\Debug\net461\Film4Me.pdb

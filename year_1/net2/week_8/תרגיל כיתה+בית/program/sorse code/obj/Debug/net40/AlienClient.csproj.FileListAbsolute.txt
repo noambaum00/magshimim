@@ -1,0 +1,11 @@
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\bin\Debug\net40\AlienClient.exe.config
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\bin\Debug\net40\AlienClient.exe
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\bin\Debug\net40\AlienClient.pdb
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\obj\Debug\net40\AlienClient.csproj.AssemblyReference.cache
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\obj\Debug\net40\AlienClient.Form1.resources
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\obj\Debug\net40\AlienClient.Properties.Resources.resources
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\obj\Debug\net40\AlienClient.csproj.GenerateResource.cache
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\obj\Debug\net40\AlienClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\obj\Debug\net40\AlienClient.csproj.CoreCompileInputs.cache
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\obj\Debug\net40\AlienClient.exe
+C:\Users\test0\Dropbox\magshimim\net2\week_8\תרגיל כיתה+בית\program\sorse code\obj\Debug\net40\AlienClient.pdb

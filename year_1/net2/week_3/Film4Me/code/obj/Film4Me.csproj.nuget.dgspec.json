@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\test0\\Dropbox\\magshimim\\net2\\week_3\\Film4Me\\code\\Film4Me.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\test0\\Dropbox\\magshimim\\net2\\week_3\\Film4Me\\code\\Film4Me.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\test0\\Dropbox\\magshimim\\net2\\week_3\\Film4Me\\code\\Film4Me.csproj",
+        "projectName": "Film4Me",
+        "projectPath": "C:\\Users\\test0\\Dropbox\\magshimim\\net2\\week_3\\Film4Me\\code\\Film4Me.csproj",
+        "packagesPath": "C:\\Users\\test0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\test0\\Dropbox\\magshimim\\net2\\week_3\\Film4Me\\code\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\test0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

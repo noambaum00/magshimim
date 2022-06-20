@@ -1,0 +1,55 @@
+
+
+	
+		printf("              a          a     \n");
+		printf("             aaa        aaa     \n");
+		printf("            aaaaaaaaaaaaaaaa     \n");
+		printf("           aaaaaaaaaaaaaaaaaa     \n");
+		printf("          aaaaafaaaaaaafaaaaaa     \n");
+		printf("          aaaaaaaaaaaaaaaaaaaa      \n");
+		printf("           aaaaaaaaaaaaaaaaaa        \n");
+		printf("            aaaaaaa  aaaaaaa          \n");
+		printf("             aaaaaaaaaaaaaa            \n");
+		printf("  a         aaaaaaaaaaaaaaaa            \n");
+		printf(" aaa       aaaaaaaaaaaaaaaaaa            \n");
+		printf(" aaa      aaaaaaaaaaaaaaaaaaaa            \n");
+		printf(" aaa     aaaaaaaaaaaaaaaaaaaaaa            \n");
+		printf(" aaa    aaaaaaaaaaaaaaaaaaaaaaaa            \n");
+		printf("  aaa   aaaaaaaaaaaaaaaaaaaaaaaa             \n");
+		printf("  aaa   aaaaaaaaaaaaaaaaaaaaaaaa              \n");
+		printf("  aaa    aaaaaaaaaaaaaaaaaaaaaa                \n");
+		printf("   aaa    aaaaaaaaaaaaaaaaaaaa                  \n");
+		printf("    aaaaaaaaaaaaaaaaaaaaaaaaaa                   \n");
+		printf("     aaaaaaaaaaaaaaaaaaaaaaaaa                    \n");
+
+
+
+
+
+		printf("	.      .                                                 . . .             .   \n");
+		printf(".              .       .                    .       .               .               \n");
+		printf(".       +   .               .       .     .                   .                       \n");
+		printf("            .           .        .                     .        .            .        \n");
+		printf("         .               .    .          .              .   .         .                \n");
+		printf("               ########     ########	########    #######				          +     \n");
+		printf(" .       .     #            #      #    #      #    #	   #		    *  	        \n");
+		printf("     .         #            #      #    #      #    # 	   #		 .             .        \n");
+		printf("               #    ####    #      #	#      #    #	   #			 .                  \n");
+		printf("               #       #    #      #    #      #    #      # 			           *    	\n");
+		printf(" .             #########    ########    ########    #######		.	          .           \n");
+		printf("                          .           .                   				.		              \n");
+		printf("               .             *                                    .					 +          \n");
+		printf("  .                  .                  .               .                                       \n");
+		printf("     |      .               .       .                            .       .        .               \n");
+		printf("     .           #      #   #####    #########   .#        #    ############   .        .         \n");
+		printf("                 ##     #     #      #            #        #         ##      *                     \n");
+		printf("   .         .   #  #   #     #      #   .        ##########    +    ##                            \n");
+		printf("         .       #   #  #     #      #    ####    #        #         ##                            \n");
+		printf("                 #  . # #     #      #       #    #        #         ##                .            \n");
+		printf(" .               #      #   #####    #########    #        #         ##                          \n");
+		printf("                               .                                        .                    *           \n");
+		printf("     .                           .         .      *         .                 .                           \n");
+		printf("         .          *                                                 *                                     \n");
+
+
+

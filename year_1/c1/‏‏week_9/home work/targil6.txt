@@ -1,0 +1,4 @@
+int cube1_6();
+int progress(int Location);
+int snake(int Location);
+int ladder(int Location);

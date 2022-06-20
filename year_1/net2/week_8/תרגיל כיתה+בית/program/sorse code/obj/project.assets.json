@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {},
+    ".NETFramework,Version=v4.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\test0\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\test0\\Dropbox\\magshimim\\net2\\week_8\\תרגיל כיתה+בית\\program\\sorse code\\AlienClient.csproj",
+      "projectName": "AlienClient",
+      "projectPath": "C:\\Users\\test0\\Dropbox\\magshimim\\net2\\week_8\\תרגיל כיתה+בית\\program\\sorse code\\AlienClient.csproj",
+      "packagesPath": "C:\\Users\\test0\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\test0\\Dropbox\\magshimim\\net2\\week_8\\תרגיל כיתה+בית\\program\\sorse code\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\test0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net40"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "net40",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "targetAlias": "net40",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

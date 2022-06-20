@@ -1,0 +1,38 @@
+#pickud {/* Netscape 4, IE 4.x-5.0/Win and other lesser browsers will use this */
+  position:absolute;bottom:0px; margin-left:auto;margin-right:auto;left:0px; top: expression( document.body.scrollTop + \'px\' );
+}
+body > div#pickud {/* used by Opera 5+, Netscape6+/Mozilla, Konqueror, Safari, OmniWeb 4.5+, iCab, ICEbrowser */
+  position: fixed;
+}
+div#pickud {/* IE5.5+/Win - this is more specific than the IE 5.0 version */
+  top: expression(ignoreMe=(document.documentElement.scrollTop?document.documentElement.scrollTop+(document.body.clientHeight-(36+0)):document.body.scrollTop+(document.body.clientHeight-(36)))+\'px\');
+}
+
+.pikud{width:100%; position:fixed; left:0; bottom:0; background-color:#a30404; text-align:center; }
+.pikud .max-width{ margin:0 auto;padding:8px 0;}
+.pikud-cont{max-width:800px; margin:0 auto; direction:rtl; color:#fff; font-size:16px; font-weight:bold;} 
+.pikud .plogo img{vertical-align: text-bottom;}
+.pikud .close{position:absolute; left:-40px; bottom:0;}
+.pikud li{float:right;}
+.pikud .td-logo{border-left:solid 2px #fff; padding:0 10px;_width:150px;}
+.pikud .td-cities{padding-right:10px; text-decoration:none;}
+.pikud .td-cities .wrapper{display:none; height:36px; line-height:18px; padding:4px 0; background-color:#f0f0f0; border-top:solid 1px #a30404; color:#a30404; position:absolute; right:0; left:0;width:100%; top:-45px; text-decoration:none;}
+.pikud .td-cities a{font-weight:normal; text-decoration:none; color:white;}
+.pikud .text-oref{text-decoration:underline;}
+.pikud .td-cities a label{font-weight:bold;}
+.pikud .td-cities a:hover,
+.pikud .td-cities a.hover{color:yellow; cursor:pointer;}
+.pikud .td-cities a:hover .wrapper,
+.pikud .td-cities a.hover .wrapper{display:block;}
+.pikud .td-cities .wrp-cont{display:block; margin:0 auto; text-align:center; width:800px; height:36px; overflow:hidden; text-decoration: none;}
+.pikud .arrow{width:11px; height:6px; background:url(http://i.walla.co.il/w9/t/oref/pikud-arrow.png); display:block;position:absolute; bottom:-6px; left:50%;}
+
+.pikud .pikud-sound-wrapper{padding-left:10px; border-left:solid 1px #fff;}
+.pikud .pikud-sound{cursor:pointer; display:inline-block; vertical-align:text-top; position:relative; top:4px; height:15px; padding-left:25px; text-align:left; background:url(http://i.walla.co.il/w9/t/oref/pikud-sound.png) no-repeat left top;}
+.pikud .pikud-sound.mute{background-position:bottom left; width:20px; padding-left:0;}
+.pikud .pikud-sound.mute .mute-text{display:none;}
+.pikud .pikud-sound a:hover{color:#fff;}
+.pikud .pikud-sound .mute-text{vertical-align:text-top;line-height:13px; color:#fff; font-weight:normal; text-decoration:underline; font-size:14px;}
+
+.pikud .update-alert{color: #fff;font-weight: normal;text-decoration: underline;display: inline-block;font-size: 14px;margin-right: 6px;vertical-align: initial;margin-left: 20px;}
+.pikud .pikud-message{color: #fff;background-color: #000;font-size: 14px;line-height: 17px;padding: 4px 0;}
